@@ -1,0 +1,11 @@
+=== PATH & PYTHON ===
+/Library/Frameworks/Python.framework/Versions/3.13/bin/python3
+Python 3.13.13
+
+=== PIP FREEZE ===
+
+=== GIT STATUS ===
+## master...origin/master
+ M .DS_Store
+origin	https://github.com/PorthosAlpha/Rclone-Obsidian-Vault.git (fetch)
+origin	https://github.com/PorthosAlpha/Rclone-Obsidian-Vault.git (push)

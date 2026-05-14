@@ -1,1 +1,7 @@
-{}
+{
+  "textFontFamily": "Times New Roman",
+  "interfaceFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "baseFontSize": 18,
+  "cssTheme": "Brainhack"
+}

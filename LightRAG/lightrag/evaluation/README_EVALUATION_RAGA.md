@@ -1,6 +1,6 @@
 # 📊 RAGAS-based Evaluation Framework
 
-## What is RAGAS?
+## What is RAGA?
 
 **RAGAS** (Retrieval Augmented Generation Assessment) is a framework for reference-free evaluation of RAG systems using LLMs. RAGAS uses state-of-the-art evaluation metrics:
 
@@ -14,7 +14,7 @@
 | **Context Precision** | Is retrieved context clean without irrelevant noise? | > 0.80 |
 | **RAGAS Score** | Overall quality metric (average of above) | > 0.80 |
 
-### 📁 LightRAG Evalua'tion Framework Directory Structure
+### 📁 LightRAG Evaluation Framework Directory Structure
 
 ```
 lightrag/evaluation/

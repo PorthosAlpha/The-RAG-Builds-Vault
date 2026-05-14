@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ae521ed9e2d0bd",
+        "id": "466e7accd708040b",
         "type": "tabs",
         "children": [
           {
-            "id": "e98066281ac7f9a3",
+            "id": "305152ae5f0fd4aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260513094804.png"
+                "file": "Using the VS Code Tool/VS Code tool.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260513094804"
+              "icon": "lucide-file",
+              "title": "VS Code tool"
             }
           }
         ]
@@ -172,21 +174,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e98066281ac7f9a3",
+  "active": "305152ae5f0fd4aa",
   "lastOpenFiles": [
+    "The GitHub Setup.md",
+    "Pasted image 20260513192519.png",
+    "Using the VS Code Tool/VS Code tool.md",
+    "LightRAG/LightRAG Windows Setup Script.md",
+    "Using the VS Code Tool",
+    "My Understanding of the Workflow.md",
+    "Pasted image 20260513192318.png",
+    "Pasted image 20260513180301.png",
+    "Policy Analysis/A 5-Phase Guide to Policy Analysis_Analyzing any policy is a universal method.md",
+    "Policy Analysis/Extension of the Guide.md",
+    "Policy Analysis/The Mechanics of Analyzing a Policy.md",
+    "Policy Analysis/Policy Anaylsis.md",
+    "LightRAG/docs/InteractiveSetup.md",
+    "Policy Analysis",
+    "LightRAG/docs/FrontendBuildGuide.md",
+    "LightRAG/docs/DockerDeployment.md",
+    "LightRAG/docs/Algorithm.md",
+    "LightRAG/docs/AdvancedFeatures.md",
+    "LightRAG/assets/logo.png",
+    "LightRAG/assets/LiteWrite.png",
+    "LightRAG/lightrag/evaluation/README_EVALUATION_RAGA.md",
+    "LightRAG/lightrag_webui/public/logo.svg",
+    "LightRAG/lightrag_webui/public/favicon.png",
+    "LightRAG/lightrag_webui/README.md",
+    "LightRAG/README.assets/iShot_2025-03-23_12.40.08.png",
+    "LightRAG/README.assets/b2aaf634151b4706892693ffb43d9093.png",
+    "LightRAG/AGENTS.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "LightRAG/SECURITY.md",
     "LightRAG/README-zh.md",
     "LightRAG/README.md",
-    "LightRAG/CLAUDE.md",
-    "LightRAG/AGENTS.md"
+    "LightRAG/CLAUDE.md"
   ]
 }

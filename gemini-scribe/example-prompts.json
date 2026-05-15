@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "search",
+    "text": "Find all notes about LightRAG deployment methods including Docker, Kubernetes configs, and Windows setup scripts"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Create a bilingual documentation index that maps English README files with their Chinese counterparts in the LightRAG vault"
+  },
+  {
+    "icon": "globe",
+    "text": "Research the RAG evaluation methodology from the LightRAG evaluation folder and document the RAGA-based approach"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organize the LightRAG docs folder contents by topic including Deployment, Algorithm, Frontend, and Interactive Setup categories"
+  },
+  {
+    "icon": "link",
+    "text": "Connect the 5-Phase policy analysis guide with the research synthesis engine to create a unified workflow document"
+  },
+  {
+    "icon": "sparkles",
+    "text": "Generate a security checklist combining the SECURITY notes with the workspace isolation test procedures from LightRAG tests folder"
+  }
+]

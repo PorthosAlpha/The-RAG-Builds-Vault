@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "466e7accd708040b",
+        "id": "84afb7fbd8883c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "305152ae5f0fd4aa",
+            "id": "6e15fe4583fc0c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using the VS Code Tool/VS Code tool.md",
+                "file": "RESEARCH SYNTHESIS ENGINE (REVISED).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VS Code tool"
+              "title": "RESEARCH SYNTHESIS ENGINE (REVISED)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "b727b0f6064ecdb4",
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Pasted image 20260513094804"
             }
+          },
+          {
+            "id": "f9f64f3b37698a23",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,20 +196,26 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "305152ae5f0fd4aa",
+  "active": "6e15fe4583fc0c4f",
   "lastOpenFiles": [
     "The GitHub Setup.md",
-    "Pasted image 20260513192519.png",
-    "Using the VS Code Tool/VS Code tool.md",
+    "gemini-scribe/AGENTS.md",
+    "RESEARCH SYNTHESIS ENGINE (REVISED).md",
+    "RAG PLan.md",
+    "LightRAG/AGENTS.md",
     "LightRAG/LightRAG Windows Setup Script.md",
-    "Using the VS Code Tool",
     "My Understanding of the Workflow.md",
-    "Pasted image 20260513192318.png",
-    "Pasted image 20260513180301.png",
+    "Using the VS Code Tool/VS Code tool.md",
+    "gemini-scribe/example-prompts.json",
+    "LightRAG/README-zh.md",
+    "Policy Analysis/Policy Anaylsis.md",
     "Policy Analysis/A 5-Phase Guide to Policy Analysis_Analyzing any policy is a universal method.md",
     "Policy Analysis/Extension of the Guide.md",
+    "Pasted image 20260513192519.png",
+    "Using the VS Code Tool",
+    "Pasted image 20260513192318.png",
+    "Pasted image 20260513180301.png",
     "Policy Analysis/The Mechanics of Analyzing a Policy.md",
-    "Policy Analysis/Policy Anaylsis.md",
     "LightRAG/docs/InteractiveSetup.md",
     "Policy Analysis",
     "LightRAG/docs/FrontendBuildGuide.md",
@@ -214,13 +230,11 @@
     "LightRAG/lightrag_webui/README.md",
     "LightRAG/README.assets/iShot_2025-03-23_12.40.08.png",
     "LightRAG/README.assets/b2aaf634151b4706892693ffb43d9093.png",
-    "LightRAG/AGENTS.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "LightRAG/SECURITY.md",
-    "LightRAG/README-zh.md",
     "LightRAG/README.md",
     "LightRAG/CLAUDE.md"
   ]

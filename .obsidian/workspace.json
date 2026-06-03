@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Builds/CLI-based Grammarly-like Tool.md",
+                "file": "Python Builds/Job Search RAG System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI-based Grammarly-like Tool"
+              "title": "Job Search RAG System"
             }
           }
         ]
@@ -196,10 +196,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "790f382893458fa1",
+  "active": "6e15fe4583fc0c4f",
   "lastOpenFiles": [
-    "Using the VS Code Tool/VS Code tool.md",
     "Python Builds/CLI-based Grammarly-like Tool.md",
+    "Python Builds/Job Search RAG System.md",
+    "Using the VS Code Tool/VS Code tool.md",
     "Python Builds",
     "Manual for Each Framework/The How To Master the Shells.md",
     "Manual for Each Framework/The How To Master.md",
@@ -233,7 +234,6 @@
     "Pasted image 20260513192318.png",
     "Pasted image 20260513180301.png",
     "Policy Analysis/The Mechanics of Analyzing a Policy.md",
-    "LightRAG/docs/InteractiveSetup.md",
     "Policy Analysis",
     "LightRAG/assets/logo.png",
     "LightRAG/assets/LiteWrite.png",

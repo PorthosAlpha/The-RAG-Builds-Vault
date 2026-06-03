@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESEARCH SYNTHESIS ENGINE (REVISED).md",
+                "file": "Python Builds/CLI-based Grammarly-like Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RESEARCH SYNTHESIS ENGINE (REVISED)"
+              "title": "CLI-based Grammarly-like Tool"
             }
           }
         ]
@@ -196,18 +196,35 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6e15fe4583fc0c4f",
+  "active": "790f382893458fa1",
   "lastOpenFiles": [
+    "Using the VS Code Tool/VS Code tool.md",
+    "Python Builds/CLI-based Grammarly-like Tool.md",
+    "Python Builds",
+    "Manual for Each Framework/The How To Master the Shells.md",
+    "Manual for Each Framework/The How To Master.md",
+    "Manual for Each Framework/Instructions for Termux.md",
+    "Manual for Each Framework/Instructions for Terminal.md",
+    "Manual for Each Framework/Instructions for PowerShell.md",
+    "LightRAG/README.md",
+    "LightRAG/SECURITY.md",
+    "LightRAG/README-zh.md",
+    "LightRAG/LightRAG Windows Setup Script.md",
+    "LightRAG/AGENTS.md",
+    "Build Materials/The Four-Mode Scholarly Reasoning Architecture On The Windows Laptop.md",
+    "Build Materials/The Construction Plan.md",
+    "Build Materials/RESEARCH SYNTHESIS ENGINE (REVISED).md",
+    "Build Materials/RAG PLan.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "The GitHub Setup.md",
     "gemini-scribe/AGENTS.md",
     "RESEARCH SYNTHESIS ENGINE (REVISED).md",
     "RAG PLan.md",
-    "LightRAG/AGENTS.md",
-    "LightRAG/LightRAG Windows Setup Script.md",
     "My Understanding of the Workflow.md",
-    "Using the VS Code Tool/VS Code tool.md",
     "gemini-scribe/example-prompts.json",
-    "LightRAG/README-zh.md",
     "Policy Analysis/Policy Anaylsis.md",
     "Policy Analysis/A 5-Phase Guide to Policy Analysis_Analyzing any policy is a universal method.md",
     "Policy Analysis/Extension of the Guide.md",
@@ -218,24 +235,11 @@
     "Policy Analysis/The Mechanics of Analyzing a Policy.md",
     "LightRAG/docs/InteractiveSetup.md",
     "Policy Analysis",
-    "LightRAG/docs/FrontendBuildGuide.md",
-    "LightRAG/docs/DockerDeployment.md",
-    "LightRAG/docs/Algorithm.md",
-    "LightRAG/docs/AdvancedFeatures.md",
     "LightRAG/assets/logo.png",
     "LightRAG/assets/LiteWrite.png",
-    "LightRAG/lightrag/evaluation/README_EVALUATION_RAGA.md",
     "LightRAG/lightrag_webui/public/logo.svg",
     "LightRAG/lightrag_webui/public/favicon.png",
-    "LightRAG/lightrag_webui/README.md",
     "LightRAG/README.assets/iShot_2025-03-23_12.40.08.png",
-    "LightRAG/README.assets/b2aaf634151b4706892693ffb43d9093.png",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "LightRAG/SECURITY.md",
-    "LightRAG/README.md",
-    "LightRAG/CLAUDE.md"
+    "LightRAG/README.assets/b2aaf634151b4706892693ffb43d9093.png"
   ]
 }

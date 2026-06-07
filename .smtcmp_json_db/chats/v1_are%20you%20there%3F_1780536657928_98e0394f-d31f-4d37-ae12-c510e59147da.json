@@ -1,0 +1,123 @@
+{
+  "id": "98e0394f-d31f-4d37-ae12-c510e59147da",
+  "title": "are you there?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are you there?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nare you there?\n\n"
+        }
+      ],
+      "id": "7bbfded2-f3b5-49bc-afd7-2458b5b70f74",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": null
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are you there?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nare you there?\n\n"
+        }
+      ],
+      "id": "a79a4e7a-ec8a-4699-b87b-492234ca153d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": null
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Yes.",
+      "id": "6f0edf1c-aded-4940-90ad-ccf7891dd831",
+      "metadata": {
+        "model": {
+          "providerId": "ollama",
+          "providerType": "ollama",
+          "id": "Qwen3.5:9b",
+          "model": "qwen3.5:9b",
+          "promptLevel": 0,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 79,
+          "completion_tokens": 170,
+          "total_tokens": 249
+        }
+      }
+    }
+  ],
+  "createdAt": 1780536459490,
+  "updatedAt": 1780536657928,
+  "schemaVersion": 1
+}

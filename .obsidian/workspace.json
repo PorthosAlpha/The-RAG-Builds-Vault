@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "84afb7fbd8883c6c",
+        "id": "44a9ef303e711443",
         "type": "tabs",
         "children": [
           {
-            "id": "6e15fe4583fc0c4f",
+            "id": "ab4ddd7eef33459e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.qwen.ai/",
+                "title": "Qwen Studio",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Qwen Studio"
+            }
+          },
+          {
+            "id": "d41f0ef6fdeebeca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Builds/Job Search RAG System.md",
+                "file": "The RAG Build Designs/The Master Syncing Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Search RAG System"
+              "title": "The Master Syncing Script"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +181,13 @@
             }
           },
           {
-            "id": "f9f64f3b37698a23",
+            "id": "2870edaec8c38226",
             "type": "leaf",
             "state": {
-              "type": "gemini-agent-view",
+              "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-ghost",
+              "title": "smtcmp-chat-view"
             }
           }
         ],
@@ -180,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 374.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +209,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "6e15fe4583fc0c4f",
+  "active": "d41f0ef6fdeebeca",
   "lastOpenFiles": [
+    "Using the VS Code Tool/VS Code tool.md",
+    "The RAG Build Designs/The Master Syncing Script.md",
+    "The RAG Build Designs",
     "Python Builds/CLI-based Grammarly-like Tool.md",
     "Python Builds/Job Search RAG System.md",
-    "Using the VS Code Tool/VS Code tool.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "Python Builds",
     "Manual for Each Framework/The How To Master the Shells.md",
     "Manual for Each Framework/The How To Master.md",
@@ -216,10 +238,6 @@
     "Build Materials/The Construction Plan.md",
     "Build Materials/RESEARCH SYNTHESIS ENGINE (REVISED).md",
     "Build Materials/RAG PLan.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "The GitHub Setup.md",
     "gemini-scribe/AGENTS.md",
     "RESEARCH SYNTHESIS ENGINE (REVISED).md",
@@ -233,7 +251,6 @@
     "Using the VS Code Tool",
     "Pasted image 20260513192318.png",
     "Pasted image 20260513180301.png",
-    "Policy Analysis/The Mechanics of Analyzing a Policy.md",
     "Policy Analysis",
     "LightRAG/assets/logo.png",
     "LightRAG/assets/LiteWrite.png",

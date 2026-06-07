@@ -1,0 +1,56 @@
+{
+  "id": "0a2c0a2c-3ebe-4a28-99b2-227be502bc25",
+  "title": "are you there?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are you there?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nare you there?\n\n"
+        }
+      ],
+      "id": "3a7b88a8-040e-4b81-bcfe-8e286e3a1cc9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": null
+        }
+      ]
+    }
+  ],
+  "createdAt": 1780535380532,
+  "updatedAt": 1780535380532,
+  "schemaVersion": 1
+}

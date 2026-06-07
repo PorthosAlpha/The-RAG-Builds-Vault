@@ -1,6 +1,7 @@
 {
   "provider": "ollama",
   "ollamaBaseUrl": "http://localhost:11434",
+  "customBaseUrl": "",
   "apiKeySecretName": "",
   "chatModelName": "qwen3.5:9b",
   "summaryModelName": "qwen3.5:9b",
@@ -27,7 +28,7 @@
     "activePreset": "cautious",
     "toolPermissions": {}
   },
-  "lastSeenVersion": "4.8.0",
+  "lastSeenVersion": "4.9.1",
   "ragIndexing": {
     "enabled": false,
     "fileSearchStoreName": null,
@@ -42,6 +43,8 @@
   "alwaysShowDiffView": false,
   "logToolExecution": true,
   "autoRunCatchUp": false,
+  "hooksEnabled": false,
+  "expandedSettingsSections": [],
   "remoteModelCache": {
     "models": [
       {
